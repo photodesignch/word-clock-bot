@@ -1,5 +1,5 @@
 {
-  "name": "word clock bot",
+  "name": "word_clock_bot",
   "version": "1.0.0",
   "description": "A bot will tell you time in English words",
   "main": "app.js",
